@@ -1,0 +1,32 @@
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\bin\Debug\Hall management System-sdp.exe.config
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\bin\Debug\Hall management System-sdp.exe
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\bin\Debug\Hall management System-sdp.pdb
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall management System-sdp.csprojResolveAssemblyReference.cache
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Properties.Resources.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall management System-sdp.csproj.GenerateResource.Cache
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall management System-sdp.exe
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall management System-sdp.pdb
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.ChangePassword.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Login.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Logs.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.MainMenu.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Starting.resources
+c:\users\shahidul islam\documents\visual studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.User_Registration.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\bin\Debug\Emgu.CV.xml
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\bin\Debug\Emgu.Util.xml
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.FrmPrincipal.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Supplier.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Meal_Sub_Category.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Meal.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Meal_Record.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Student_Entry.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.MealStockRecord.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.StudentMealBillingRecord.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.StudentMealBilling.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.MealStock.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.SupplierRecord.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.Student_Entry_Record.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\obj\Debug\Hall_management_System_sdp.MealCategory.resources
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\bin\Debug\Management.mdf
+C:\Users\Shahidul Islam\Documents\Visual Studio 2013\Projects\Hall management System-sdp\Hall management System-sdp\bin\Debug\Management_log.ldf
